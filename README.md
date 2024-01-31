@@ -8,17 +8,20 @@ In addition, our friends asked you to take care of a small inconvenience: it's n
 
 Now your menu should look like this:
 
+```
 1. Show the seats
 2. Buy a ticket
 3. Statistics
 0. Exit
-
+```
 When the item `Statistics` is chosen, your program should print the following information:
 
+```
 - The number of purchased tickets;
 - The number of purchased tickets represented as a percentage. Percentages should be rounded to 2 decimal places;
 - Current income;
 - The total income that shows how much money the theatre will get if all the tickets are sold.
+```
 
 The rest of the menu items should work the same way as before, except the item `Buy a ticket` shouldn't allow a user to buy a ticket that has already been purchased.
 
@@ -108,6 +111,7 @@ Statistics
 Exit
 1
 
+```
 Cinema:
 1 2 3 4 5 6
 1 B S S S S S
@@ -116,7 +120,7 @@ Cinema:
 4 S S S B S S
 5 S S S S S S
 6 S S S S S S
-
+```
 Show the seats
 Buy a ticket
 Statistics

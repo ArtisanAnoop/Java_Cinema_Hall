@@ -111,7 +111,7 @@ Statistics
 Exit
 1
 
-```
+
 Cinema:
 1 2 3 4 5 6
 1 B S S S S S
@@ -120,7 +120,7 @@ Cinema:
 4 S S S B S S
 5 S S S S S S
 6 S S S S S S
-```
+
 Show the seats
 Buy a ticket
 Statistics

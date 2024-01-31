@@ -32,7 +32,7 @@ If a user chooses an already taken seat, print `That ticket has already been pur
 The greater-than symbol followed by a space (`> `) represents the user input. Note that it's not part of the input.
 
 Example interaction:
-
+```
 Enter the number of rows:
 
 6
@@ -136,3 +136,4 @@ Show the seats
 Buy a ticket
 Statistics
 Exit
+```
